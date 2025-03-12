@@ -10,9 +10,9 @@ const Footer = () => {
           <div className="col-span-1">
             <Link to="/" className="flex items-center">
               <img 
-                src="/lovable-uploads/76f04342-ecf1-4661-a3e1-552d8ee3b3c4.png" 
+                src="/lovable-uploads/7395017c-b3cd-4293-b971-5ec3726f1390.png" 
                 alt="aajaAlumni Logo" 
-                className="h-8 w-auto"
+                className="h-10 w-auto"
               />
               <span className="ml-2 text-xl font-bold text-primary">aajaAlumni</span>
             </Link>
@@ -84,7 +84,7 @@ const Footer = () => {
         
         <div className="mt-8 pt-8 border-t border-gray-200">
           <p className="text-sm text-gray-600 text-center">
-            © 2024 aajaAlumni. All rights reserved.
+            © 2023 aajaAlumni. All rights reserved.
           </p>
         </div>
       </div>
